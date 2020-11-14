@@ -78,7 +78,10 @@
 - styled-component를 이용해 미디어쿼리, 애니메이션 적용, 스타일 테마 관리를 합니다.
 <br>
 
+
 ## 🛏설계 및 기능 구현
+>  [Issues 링크](https://github.com/4INCENSE/geha-sajang-frontend/issues) →이슈에 개발해야 할 기능을 정리하고 기록하며 개발을 진행했습니다.
+
 
 ### 1.폴더구조 
 ```
