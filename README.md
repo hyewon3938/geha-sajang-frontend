@@ -73,8 +73,8 @@
 ## 🛏사용 도구 및 기술
 → ``` React, Redux, Redux-thunk, styled-component, media query, axios, Webpack ```
 <br>
-- 웹팩으로 development 모드와 product 모드를 나누어 각각 다른 dotenv 파일을 이용합니다.
-- Redux로 상태관리를 하고, 미들웨어 redux-thunk를 이용해 비동기  합니다.
+- CRA(Create React App)을 사용하지 않고 직접 웹팩 개발환경을 구성했습니다.
+- Redux로 상태관리를 하고, 미들웨어 redux-thunk를 이용해 비동기 서버통신을 합니다.
 - styled-component를 이용해 미디어쿼리, 애니메이션 적용, 스타일 테마 관리를 합니다.
 <br>
 
@@ -150,7 +150,7 @@
     <p><img src="https://user-images.githubusercontent.com/58355499/99147789-1229aa80-26c7-11eb-9eab-a88b8abe1926.gif"/></p>
   - 가격 입력 시 숫자 3자리 단위마다 ,(콤마) 찍어주는 기능 
     <p><img src="https://user-images.githubusercontent.com/58355499/99147794-1655c800-26c7-11eb-94f0-ac3802a8cb8a.gif"/></p>
-  - 기본 인원 증가 시 최대 인원 함께 증가시켜주는 기능
+  - 최대인원이 기본인원보다 적지 않도록 수정해주는 기능
     <p><img src="https://user-images.githubusercontent.com/58355499/99147799-1d7cd600-26c7-11eb-925b-d2270879beec.gif"/></p>
   - 사이트 기능에 대한 설명 
     <p><img src="https://user-images.githubusercontent.com/58355499/99149051-0f32b800-26cf-11eb-96f4-58c203e3ff2e.gif"/></p>
